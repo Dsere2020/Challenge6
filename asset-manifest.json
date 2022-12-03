@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//dsere2020.github.io/my-app/static/css/main.073c9b0a.css",
+    "main.js": "/https//dsere2020.github.io/my-app/static/js/main.fb7a5d25.js",
+    "static/js/787.28cb0dcd.chunk.js": "/https//dsere2020.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/picture.png": "/https//dsere2020.github.io/my-app/static/media/picture.427faf1e96d04308823e.png",
+    "index.html": "/https//dsere2020.github.io/my-app/index.html",
+    "main.073c9b0a.css.map": "/https//dsere2020.github.io/my-app/static/css/main.073c9b0a.css.map",
+    "main.fb7a5d25.js.map": "/https//dsere2020.github.io/my-app/static/js/main.fb7a5d25.js.map",
+    "787.28cb0dcd.chunk.js.map": "/https//dsere2020.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fb7a5d25.js"
+  ]
+}
