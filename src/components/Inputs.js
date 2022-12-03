@@ -206,7 +206,7 @@ const Inputs = ({name,nameChange, numberChange, yearChange, month, active, month
                     <MiddleTopic>THANK YOU!</MiddleTopic>
                     <MiddleText>We've added your card details</MiddleText>
                     <ContinueButton onClick={()=>{handleClick(1)}} >Continue</ContinueButton>
-                </ThankYouContainer>
+                </ThankYouContainer> 
             )}
         </Container>
 
